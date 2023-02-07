@@ -11,5 +11,9 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="boton_de_operacion_suma">presiona para sumar</string>
     <string name="mensaje_de_pantalla">¿estos son sus datos?</string>
-    <string name="mensaje_fomrulario">rellene con sus datos por favor</string>
+    <string name="mensaje_formulario">rellene con sus datos por favor</string>
+
+    <string name="nameInput">Ingrese su nombre</string>
+    <string name="lastNameInput">Ingrese su apellido</string>
+    <string name="ageInput">Ingrese su edad</string>
 </resources>
